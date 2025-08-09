@@ -103,7 +103,7 @@ x2 y2
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/USERNAME/game-of-life.git
+   git clone https://github.com/absar55/GAME-OF-LIFE.git
    cd game-of-life
 
 
